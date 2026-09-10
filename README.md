@@ -94,6 +94,9 @@ IMU    BMX160
 Barometer    BMP390
 GPS    u-blox NEO-M9N
 Microcontroller    LilyGO T-Echo (with GPS & LoRa)
+
+<img width="1672" height="941" alt="EPD4 7Lilygo" src="https://github.com/user-attachments/assets/a766066c-f337-4b08-812b-4d65401eb310" />
+
 Comms    BLE / LoRa for real-time display or sync
 **************************************************************
 ![IMG_0560](https://github.com/user-attachments/assets/84173246-f6f6-4358-861c-2c521d11387d)
@@ -148,6 +151,6 @@ T-Echo WITH CUSTOM CASE ???? !!!!!!
 https://lilygo.cc/products/t-echo-lilygo?_pos=13&_sid=b0fec331c&_ss=r
 
 
-![IMG_0557](https://github.com/user-attachments/assets/77837a5c-b315-45c8-9457-86fa07aa6970)
+
 
 
