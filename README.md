@@ -109,6 +109,9 @@ This makes local and worldwide jump challenges possible using infrastructure tha
 
 <img width="1672" height="941" alt="EPD4 7Lilygo" src="https://github.com/user-attachments/assets/a766066c-f337-4b08-812b-4d65401eb310" />
 
+<img width="444" height="489" alt="Screenshot 2026-09-10 at 20 57 40" src="https://github.com/user-attachments/assets/119a60ba-1d42-47a2-bcde-9998dc088e73" />
+
+
 Comms    BLE / LoRa for real-time display or sync
 **************************************************************
 ![IMG_0560](https://github.com/user-attachments/assets/84173246-f6f6-4358-861c-2c521d11387d)
