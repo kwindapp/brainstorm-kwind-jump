@@ -94,14 +94,16 @@ IMU    BMX160
 Barometer    BMP390
 GPS    u-blox NEO-M9N
 Microcontroller    LilyGO T-Echo (with GPS & LoRa)
+*************************************************************************************************************
+**KWind Jump Challenge**
 
-KWind Jump Challenge
+A kiteboard-mounted tracker measures jump height, airtime, rotations, landing impact and GPS position. The results are transmitted via LoRaWAN to a nearby gateway, through the Helium Network and directly into the existing KWind backend.
 
-A kiteboard-mounted jump tracker measures height, airtime, rotations, landing impact and GPS position. The results are transmitted via LoRaWAN to a nearby gateway, through the Helium Network and directly into the existing KWind backend.
+Kite centers can display every rider live on a TV dashboard—with jump rankings, personal bests and location tracking. Each jump can also be synchronized with KWind’s live wind data, including average wind speed and gusts.
 
-Kite centers can display every rider live on a TV dashboard—with jump rankings, personal bests and location tracking. Each jump can also be synchronized with KWind’s live wind data, including average wind and gusts.
+The jump-detection algorithm remains remotely adjustable. Parameters such as takeoff sensitivity, minimum airtime, landing threshold, impact limit and sensor filtering can be changed by sending LoRaWAN downlinks to the tracker—without opening or physically connecting the waterproof device.
 
-This makes local and worldwide jump challenges possible using infrastructure that already exists: the KWind App, backend, live-wind network and Helium Console integration.
+This enables local and worldwide jump challenges using infrastructure that already exists: the KWind App, backend, live-wind network and Helium Console integration.
 
 
 
