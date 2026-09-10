@@ -95,6 +95,18 @@ Barometer    BMP390
 GPS    u-blox NEO-M9N
 Microcontroller    LilyGO T-Echo (with GPS & LoRa)
 
+KWind Jump Challenge
+
+A kiteboard-mounted jump tracker measures height, airtime, rotations, landing impact and GPS position. The results are transmitted via LoRaWAN to a nearby gateway, through the Helium Network and directly into the existing KWind backend.
+
+Kite centers can display every rider live on a TV dashboard—with jump rankings, personal bests and location tracking. Each jump can also be synchronized with KWind’s live wind data, including average wind and gusts.
+
+This makes local and worldwide jump challenges possible using infrastructure that already exists: the KWind App, backend, live-wind network and Helium Console integration.
+
+
+
+
+
 <img width="1672" height="941" alt="EPD4 7Lilygo" src="https://github.com/user-attachments/assets/a766066c-f337-4b08-812b-4d65401eb310" />
 
 Comms    BLE / LoRa for real-time display or sync
